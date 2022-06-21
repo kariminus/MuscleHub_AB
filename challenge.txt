@@ -1,0 +1,9 @@
+- Develop a presentation that demonstrates your findings to Janet. She has decided that your recommendation will determine if potential customers should take a fitness test as a component of their application. Your presentation should include the following:
+    - A title slide
+    - A description of what happened in this A/B test
+    - A summary of your dataset and any information you think would be helpful background
+    - The results of the three hypothesis tests that you ran, including an explanation of the type of test that you used and why it was appropriate
+    - A summary of the qualitative data
+    - A recommendation for MuscleHub
+
+- Create a [wordcloud](https://pypi.org/project/wordcloud/) visualization that Janet can use to create an ad for the MuscleHub Gym with the data in `interviews.txt`. 
